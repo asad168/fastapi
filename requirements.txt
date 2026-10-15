@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+fastapi-users
+imagekitio
+python-dotenv
+requests
+streamlit
